@@ -1,0 +1,1612 @@
+{
+    "n01443537": {
+        "definition": "small golden or orange-red freshwater fishes of Eurasia used as pond or aquarium fishes",
+        "names": [
+            "goldfish",
+            "Carassius auratus"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/01443537-n"
+    },
+    "n01518878": {
+        "definition": "fast-running African flightless bird with two-toed feet; largest living bird",
+        "names": [
+            "Struthio camelus",
+            "ostrich"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/01518878-n"
+    },
+    "n01621127": {
+        "definition": "nocturnal bird of prey with hawk-like beak and claws and large head with front-facing eyes",
+        "names": [
+            "bird of Minerva",
+            "bird of night",
+            "owl",
+            "hooter"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/01621127-n"
+    },
+    "n01639765": {
+        "definition": "any of various tailless stout-bodied amphibians with long hind limbs for leaping; semiaquatic and terrestrial species",
+        "names": [
+            "frog",
+            "toad",
+            "salientian",
+            "batrachian",
+            "toad frog",
+            "anuran"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/01639765-n"
+    },
+    "n01645776": {
+        "definition": "tailless amphibian similar to a frog but more terrestrial and having drier warty skin",
+        "names": [
+            "true toad"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/01645776-n"
+    },
+    "n01664990": {
+        "definition": "pugnacious tropical sea turtle with a hawk-like beak; source of food and the best tortoiseshell",
+        "names": [
+            "hawksbill",
+            "hawksbill turtle",
+            "hawkbill",
+            "tortoiseshell turtle",
+            "Eretmochelys imbricata"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/01664990-n"
+    },
+    "n01677366": {
+        "definition": "large herbivorous tropical American arboreal lizards with a spiny crest along the back; used as human food in Central America and South America",
+        "names": [
+            "iguana",
+            "Iguana iguana",
+            "common iguana"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/01677366-n"
+    },
+    "n01704323": {
+        "definition": "huge ceratopsian dinosaur having three horns and the neck heavily armored with a very solid frill",
+        "names": [
+            "triceratops"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/01704323-n"
+    },
+    "n01726692": {
+        "definition": "limbless scaly elongate reptile; some are venomous",
+        "names": [
+            "serpent",
+            "snake",
+            "ophidian"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/01726692-n"
+    },
+    "n01768244": {
+        "definition": "an extinct arthropod that was abundant in Paleozoic times; had an exoskeleton divided into three parts",
+        "names": [
+            "trilobite"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/01768244-n"
+    },
+    "n01770393": {
+        "definition": "arachnid of warm dry regions having a long segmented tail ending in a venomous stinger",
+        "names": [
+            "scorpion"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/01770393-n"
+    },
+    "n01772222": {
+        "definition": "predatory arachnid with eight legs, two poison fangs, two feelers, and usually two silk-spinning organs at the back end of the body; they spin silk to make cocoons for eggs or traps for prey",
+        "names": [
+            "spider"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/01772222-n"
+    },
+    "n01784675": {
+        "definition": "chiefly nocturnal predacious arthropod having a flattened body of 15 to 173 segments each with a pair of legs, the foremost pair being modified as prehensors",
+        "names": [
+            "centipede"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/01784675-n"
+    },
+    "n01787835": {
+        "definition": "large marine arthropod of the Atlantic coast of North America having a domed carapace that is shaped like a horseshoe and a stiff pointed tail; a living fossil related to the wood louse",
+        "names": [
+            "horseshoe crab",
+            "Limulus polyphemus",
+            "Xiphosurus polyphemus",
+            "king crab"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/01787835-n"
+    },
+    "n01833805": {
+        "definition": "tiny American bird having brilliant iridescent plumage and long slender bills; wings are specialized for vibrating flight",
+        "names": [
+            "hummingbird"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/01833805-n"
+    },
+    "n01846331": {
+        "definition": "small wild or domesticated web-footed broad-billed swimming bird usually having a depressed body and short legs",
+        "names": [
+            "duck"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/01846331-n"
+    },
+    "n01855672": {
+        "definition": "web-footed long-necked typically gregarious migratory aquatic birds usually larger and less aquatic than ducks",
+        "names": [
+            "goose"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/01855672-n"
+    },
+    "n01858441": {
+        "definition": "stately heavy-bodied aquatic bird with very long neck and usually white plumage as adult",
+        "names": [
+            "swan"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/01858441-n"
+    },
+    "n01877134": {
+        "definition": "any of several herbivorous leaping marsupials of Australia and New Guinea having large powerful hind legs and a long thick tail",
+        "names": [
+            "kangaroo"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/01877134-n"
+    },
+    "n01943899": {
+        "definition": "any of various edible tropical marine gastropods of the genus Strombus having a brightly-colored spiral shell with large outer lip",
+        "names": [
+            "conch"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/01943899-n"
+    },
+    "n01944390": {
+        "definition": "freshwater or marine or terrestrial gastropod mollusk usually having an external enclosing spiral shell",
+        "names": [
+            "snail"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/01944390-n"
+    },
+    "n01963571": {
+        "definition": "marine or freshwater bivalve mollusk that lives attached to rocks etc.",
+        "names": [
+            "mussel"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/01963571-n"
+    },
+    "n01970164": {
+        "definition": "bottom-living cephalopod having a soft oval body with eight long tentacles",
+        "names": [
+            "octopus",
+            "devilfish"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/01970164-n"
+    },
+    "n01976957": {
+        "definition": "decapod having eyes on short stalks and a broad flattened carapace with a small abdomen folded under the thorax and pincers",
+        "names": [
+            "crab"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/01976957-n"
+    },
+    "n02005790": {
+        "definition": "wading birds of warm regions having long slender down-curved bills",
+        "names": [
+            "ibis"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02005790-n"
+    },
+    "n02054036": {
+        "definition": "large voracious dark-colored long-necked seabird with a distensible pouch for holding fish; used in Asia to catch fish",
+        "names": [
+            "Phalacrocorax carbo",
+            "cormorant"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02054036-n"
+    },
+    "n02055803": {
+        "definition": "short-legged flightless birds of cold southern especially Antarctic regions having webbed feet and wings modified as flippers",
+        "names": [
+            "penguin"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02055803-n"
+    },
+    "n02068974": {
+        "definition": "any of various small toothed whales with a beaklike snout; larger than porpoises",
+        "names": [
+            "dolphin"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02068974-n"
+    },
+    "n02071294": {
+        "definition": "predatory black-and-white toothed whale with large dorsal fin; common in cold seas",
+        "names": [
+            "orca",
+            "killer",
+            "Orcinus orca",
+            "sea wolf",
+            "killer whale",
+            "grampus"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02071294-n"
+    },
+    "n02084071": {
+        "definition": "a member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds; \"the dog barked all night\"",
+        "names": [
+            "domestic dog",
+            "dog",
+            "Canis familiaris"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02084071-n"
+    },
+    "n02090827": {
+        "definition": "a tall slender dog of an ancient breed noted for swiftness and keen sight; used as a racing dog",
+        "names": [
+            "greyhound"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02090827-n"
+    },
+    "n02128385": {
+        "definition": "large feline of African and Asian forests usually having a tawny coat with black spots",
+        "names": [
+            "leopard",
+            "Panthera pardus"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02128385-n"
+    },
+    "n02131653": {
+        "definition": "massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws",
+        "names": [
+            "bear"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02131653-n"
+    },
+    "n02139199": {
+        "definition": "nocturnal mouselike mammal with forelimbs modified to form membranous wings and anatomical adaptations for echolocation by which they navigate",
+        "names": [
+            "bat",
+            "chiropteran"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02139199-n"
+    },
+    "n02190790": {
+        "definition": "common fly that frequents human habitations and spreads many diseases",
+        "names": [
+            "housefly",
+            "Musca domestica",
+            "house fly"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02190790-n"
+    },
+    "n02226429": {
+        "definition": "terrestrial plant-eating insect with hind legs adapted for leaping",
+        "names": [
+            "hopper",
+            "grasshopper"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02226429-n"
+    },
+    "n02233338": {
+        "definition": "any of numerous chiefly nocturnal insects; some are domestic pests",
+        "names": [
+            "roach",
+            "cockroach"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02233338-n"
+    },
+    "n02236241": {
+        "definition": "the common mantis",
+        "names": [
+            "Mantis religioso",
+            "praying mantis",
+            "praying mantid"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02236241-n"
+    },
+    "n02274259": {
+        "definition": "diurnal insect typically having a slender body with knobbed antennae and broad colorful wings",
+        "names": [
+            "butterfly"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02274259-n"
+    },
+    "n02317335": {
+        "definition": "echinoderms characterized by five arms extending from a central disk",
+        "names": [
+            "sea star",
+            "starfish"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02317335-n"
+    },
+    "n02346627": {
+        "definition": "relatively large rodents with sharp erectile bristles mingled with the fur",
+        "names": [
+            "porcupine",
+            "hedgehog"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02346627-n"
+    },
+    "n02374451": {
+        "definition": "solid-hoofed herbivorous quadruped domesticated since prehistoric times",
+        "names": [
+            "horse",
+            "Equus caballus"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02374451-n"
+    },
+    "n02391049": {
+        "definition": "any of several fleet black-and-white striped African equines",
+        "names": [
+            "zebra"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02391049-n"
+    },
+    "n02416519": {
+        "definition": "any of numerous agile ruminants related to sheep but having a beard and straight horns",
+        "names": [
+            "goat",
+            "caprine animal"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02416519-n"
+    },
+    "n02432983": {
+        "definition": "large northern deer with enormous flattened antlers in the male; called `elk' in Europe and `moose' in North America",
+        "names": [
+            "moose",
+            "elk",
+            "Alces alces"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02432983-n"
+    },
+    "n02437136": {
+        "definition": "cud-chewing mammal used as a draft or saddle animal in desert regions",
+        "names": [
+            "camel"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02437136-n"
+    },
+    "n02437971": {
+        "definition": "used in the Andes as a beast of burden and source of wool; considered a domesticated variety of the guanaco",
+        "names": [
+            "Lama peruana",
+            "domestic llama"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02437971-n"
+    },
+    "n02439033": {
+        "definition": "tallest living quadruped; having a spotted coat and small horns and very long neck and legs; of savannahs of tropical Africa",
+        "names": [
+            "giraffe",
+            "Giraffa camelopardalis",
+            "camelopard"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02439033-n"
+    },
+    "n02445715": {
+        "definition": "American musteline mammal typically ejecting an intensely malodorous fluid when startled; in some classifications put in a separate subfamily Mephitinae",
+        "names": [
+            "wood pussy",
+            "skunk",
+            "polecat"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02445715-n"
+    },
+    "n02472293": {
+        "definition": "any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage",
+        "names": [
+            "homo",
+            "human",
+            "human being",
+            "man"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02472293-n"
+    },
+    "n02480855": {
+        "definition": "largest anthropoid ape; terrestrial and vegetarian; of forests of central west Africa",
+        "names": [
+            "Gorilla gorilla",
+            "gorilla"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02480855-n"
+    },
+    "n02481823": {
+        "definition": "intelligent somewhat arboreal ape of equatorial African forests",
+        "names": [
+            "Pan troglodytes",
+            "chimpanzee",
+            "chimp"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02481823-n"
+    },
+    "n02503517": {
+        "definition": "five-toed pachyderm",
+        "names": [
+            "elephant"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02503517-n"
+    },
+    "n02508213": {
+        "definition": "North American raccoon",
+        "names": [
+            "common racoon",
+            "Procyon lotor",
+            "ringtail",
+            "coon",
+            "common raccoon"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02508213-n"
+    },
+    "n02690373": {
+        "definition": "a commercial airplane that carries passengers",
+        "names": [
+            "airliner"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02690373-n"
+    },
+    "n02692877": {
+        "definition": "a steerable self-propelled aircraft",
+        "names": [
+            "airship",
+            "dirigible"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02692877-n"
+    },
+    "n02766534": {
+        "definition": "a small vehicle with four wheels in which a baby or child is pushed around",
+        "names": [
+            "pram",
+            "perambulator",
+            "stroller",
+            "go-cart",
+            "baby carriage",
+            "baby buggy",
+            "carriage",
+            "pushchair",
+            "pusher"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02766534-n"
+    },
+    "n02769748": {
+        "definition": "a bag carried by a strap on your back or shoulder",
+        "names": [
+            "packsack",
+            "haversack",
+            "knapsack",
+            "back pack",
+            "rucksack",
+            "backpack"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02769748-n"
+    },
+    "n02797295": {
+        "definition": "a cart for carrying small loads; has handles and one or more wheels",
+        "names": [
+            "lawn cart",
+            "garden cart",
+            "wheelbarrow",
+            "barrow"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02797295-n"
+    },
+    "n02799175": {
+        "definition": "an implement used in baseball by the batter",
+        "names": [
+            "baseball bat",
+            "lumber"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02799175-n"
+    },
+    "n02800213": {
+        "definition": "the handwear used by fielders in playing baseball",
+        "names": [
+            "glove",
+            "baseball glove",
+            "mitt",
+            "baseball mitt"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02800213-n"
+    },
+    "n02802215": {
+        "definition": "horizontal circular metal hoop supporting a net through which players try to throw the basketball",
+        "names": [
+            "basket",
+            "basketball hoop",
+            "hoop"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02802215-n"
+    },
+    "n02808440": {
+        "definition": "a relatively large open container that you fill with water and use to wash the body",
+        "names": [
+            "bathing tub",
+            "tub",
+            "bathtub"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02808440-n"
+    },
+    "n02814860": {
+        "definition": "a tower with a light that gives warning of shoals to passing ships",
+        "names": [
+            "lighthouse",
+            "beacon light",
+            "beacon",
+            "pharos"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02814860-n"
+    },
+    "n02824058": {
+        "definition": "a mug intended for serving beer",
+        "names": [
+            "beer mug",
+            "stein"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02824058-n"
+    },
+    "n02841315": {
+        "definition": "(plural) an optical instrument designed for simultaneous use by both eyes",
+        "names": [
+            "field glasses",
+            "binoculars",
+            "opera glasses"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02841315-n"
+    },
+    "n02843158": {
+        "definition": "an ornamental basin (usually in a garden) for birds to bathe in",
+        "names": [
+            "birdbath"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02843158-n"
+    },
+    "n02882301": {
+        "definition": "a large ball with finger holes used in the sport of bowling",
+        "names": [
+            "bowling ball",
+            "bowl"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02882301-n"
+    },
+    "n02882647": {
+        "definition": "a club-shaped wooden object used in bowling; set up in triangular groups of ten as the target",
+        "names": [
+            "pin",
+            "bowling pin"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02882647-n"
+    },
+    "n02885462": {
+        "definition": "boxing equipment consisting of big and padded coverings for the fists of the fighters; worn for the sport of boxing",
+        "names": [
+            "glove",
+            "boxing glove"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02885462-n"
+    },
+    "n02916179": {
+        "definition": "large powerful tractor; a large blade in front flattens areas of ground",
+        "names": [
+            "bulldozer",
+            "dozer"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02916179-n"
+    },
+    "n02943871": {
+        "definition": "a tripod used to support a camera",
+        "names": [
+            "camera tripod"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02943871-n"
+    },
+    "n02950256": {
+        "definition": "a large artillery gun that is usually on wheels",
+        "names": [
+            "cannon"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02950256-n"
+    },
+    "n02951358": {
+        "definition": "small and light boat; pointed at both ends; propelled with a paddle",
+        "names": [
+            "canoe"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02951358-n"
+    },
+    "n02974003": {
+        "definition": "a wheel that has a tire and rim and hubcap; used to propel the car",
+        "names": [
+            "car wheel"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02974003-n"
+    },
+    "n02998003": {
+        "definition": "a paper box in which breakfast cereals are sold",
+        "names": [
+            "cereal box"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/02998003-n"
+    },
+    "n03038480": {
+        "definition": "a large knife with one or more folding blades",
+        "names": [
+            "jackknife",
+            "clasp knife"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03038480-n"
+    },
+    "n03063599": {
+        "definition": "a mug intended for serving coffee",
+        "names": [
+            "coffee mug"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03063599-n"
+    },
+    "n03064758": {
+        "definition": "box in which a corpse is buried or cremated",
+        "names": [
+            "coffin",
+            "casket"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03064758-n"
+    },
+    "n03079230": {
+        "definition": "a digitally encoded recording on an optical disk that is smaller than a phonograph record; played back by a laser",
+        "names": [
+            "compact disc",
+            "CD",
+            "compact disk"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03079230-n"
+    },
+    "n03085013": {
+        "definition": "a keyboard that is a data input device for computers; arrangement of keys is modelled after the typewriter keyboard",
+        "names": [
+            "computer keyboard",
+            "keypad"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03085013-n"
+    },
+    "n03085219": {
+        "definition": "a device that displays signals on a computer screen",
+        "names": [
+            "computer monitor"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03085219-n"
+    },
+    "n03122295": {
+        "definition": "a large wagon with broad wheels and an arched canvas top; used by the United States pioneers to cross the prairies in the 19th century",
+        "names": [
+            "prairie wagon",
+            "Conestoga",
+            "Conestoga wagon",
+            "prairie schooner",
+            "covered wagon"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03122295-n"
+    },
+    "n03124170": {
+        "definition": "a hat with a wide brim and a soft crown; worn by American ranch hands",
+        "names": [
+            "ten-gallon hat",
+            "cowboy hat"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03124170-n"
+    },
+    "n03187595": {
+        "definition": "a telephone with a dial for registering the number to be called",
+        "names": [
+            "dial telephone",
+            "dial phone"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03187595-n"
+    },
+    "n03209910": {
+        "definition": "a small plastic magnetic disk enclosed in a stiff envelope with a radial slit; used to store data or programs for a microcomputer; \"floppy disks are noted for their relatively slow speed and small capacity and low price\"",
+        "names": [
+            "floppy disk",
+            "diskette",
+            "floppy"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03209910-n"
+    },
+    "n03237416": {
+        "definition": "a man's hat with a tall crown; usually covered with silk or with beaver fur",
+        "names": [
+            "top hat",
+            "high hat",
+            "beaver",
+            "silk hat",
+            "topper",
+            "stovepipe",
+            "opera hat",
+            "dress hat"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03237416-n"
+    },
+    "n03255030": {
+        "definition": "an exercising weight; two spheres connected by a short bar that serves as a handle",
+        "names": [
+            "dumbbell"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03255030-n"
+    },
+    "n03261776": {
+        "definition": "electro-acoustic transducer for converting electric signals into sounds; it is held over or inserted into the ear; \"it was not the typing but the earphones that she disliked\"",
+        "names": [
+            "earpiece",
+            "headphone",
+            "phone",
+            "earphone"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03261776-n"
+    },
+    "n03272010": {
+        "definition": "a guitar whose sound is amplified by electrical means",
+        "names": [
+            "electric guitar"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03272010-n"
+    },
+    "n03335030": {
+        "definition": "a high-speed military or naval airplane designed to destroy enemy aircraft in the air",
+        "names": [
+            "fighter",
+            "attack aircraft",
+            "fighter aircraft"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03335030-n"
+    },
+    "n03345487": {
+        "definition": "any of various large trucks that carry firemen and equipment to the site of a fire",
+        "names": [
+            "fire truck",
+            "fire engine"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03345487-n"
+    },
+    "n03345837": {
+        "definition": "a manually operated device for extinguishing small fires",
+        "names": [
+            "fire extinguisher",
+            "asphyxiator",
+            "extinguisher"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03345837-n"
+    },
+    "n03359137": {
+        "definition": "a small portable battery-powered electric lamp",
+        "names": [
+            "torch",
+            "flashlight"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03359137-n"
+    },
+    "n03379051": {
+        "definition": "a padded helmet with a face mask to protect the head of football players",
+        "names": [
+            "football helmet"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03379051-n"
+    },
+    "n03394916": {
+        "definition": "a brass musical instrument consisting of a conical tube that is coiled into a spiral and played by means of valves",
+        "names": [
+            "French horn",
+            "horn"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03394916-n"
+    },
+    "n03397947": {
+        "definition": "a light, plastic disk about 10 inches in diameter; propelled with a flip of the wrist for recreation or competition",
+        "names": [
+            "Frisbee"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03397947-n"
+    },
+    "n03400231": {
+        "definition": "a pan used for frying foods",
+        "names": [
+            "skillet",
+            "frypan",
+            "frying pan"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03400231-n"
+    },
+    "n03425413": {
+        "definition": "a pump in a service station that draws gasoline from underground storage tanks",
+        "names": [
+            "gas pump",
+            "petrol pump",
+            "island dispenser",
+            "gasoline pump"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03425413-n"
+    },
+    "n03436182": {
+        "definition": "a portable stereo",
+        "names": [
+            "boom box",
+            "ghetto blaster"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03436182-n"
+    },
+    "n03445777": {
+        "definition": "a small hard ball used in playing golf; dimpled to reduce wind resistance",
+        "names": [
+            "golf ball"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03445777-n"
+    },
+    "n03452741": {
+        "definition": "a piano with the strings on a horizontal harp-shaped frame; usually supported by three legs",
+        "names": [
+            "grand",
+            "grand piano"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03452741-n"
+    },
+    "n03455488": {
+        "definition": "a stone that is used to mark a grave",
+        "names": [
+            "tombstone",
+            "headstone",
+            "gravestone"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03455488-n"
+    },
+    "n03467796": {
+        "definition": "a plectrum used to pluck a guitar",
+        "names": [
+            "guitar pick"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03467796-n"
+    },
+    "n03472535": {
+        "definition": "a canvas shoe with a pliable rubber sole",
+        "names": [
+            "sneaker",
+            "tennis shoe",
+            "gym shoe"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03472535-n"
+    },
+    "n03482252": {
+        "definition": "a hanging bed of canvas or rope netting (usually suspended between two trees); swings easily",
+        "names": [
+            "hammock",
+            "sack"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03482252-n"
+    },
+    "n03483823": {
+        "definition": "a calculator small enough to hold in the hand or carry in a pocket",
+        "names": [
+            "pocket calculator",
+            "hand calculator"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03483823-n"
+    },
+    "n03494278": {
+        "definition": "a small rectangular free-reed instrument having a row of free reeds set back in air holes and played by blowing into the desired hole",
+        "names": [
+            "mouth organ",
+            "harmonica",
+            "harp",
+            "mouth harp"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03494278-n"
+    },
+    "n03495258": {
+        "definition": "a chordophone that has a triangular frame consisting of a sounding board and a pillar and a curved neck; the strings stretched between the neck and the soundbox are plucked with the fingers",
+        "names": [
+            "harp"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03495258-n"
+    },
+    "n03496296": {
+        "definition": "a clavier with strings that are plucked by plectra mounted on pivots",
+        "names": [
+            "cembalo",
+            "harpsichord"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03496296-n"
+    },
+    "n03512147": {
+        "definition": "an aircraft without wings that obtains its lift from the rotation of overhead blades",
+        "names": [
+            "eggbeater",
+            "helicopter",
+            "chopper",
+            "whirlybird"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03512147-n"
+    },
+    "n03541923": {
+        "definition": "balloon for travel through the air in a basket suspended below a large bag of heated air",
+        "names": [
+            "hot-air balloon"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03541923-n"
+    },
+    "n03543603": {
+        "definition": "a very large tub (large enough for more than one bather) filled with hot water",
+        "names": [
+            "hot tub"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03543603-n"
+    },
+    "n03544143": {
+        "definition": "a sandglass that runs for sixty minutes",
+        "names": [
+            "hourglass"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03544143-n"
+    },
+    "n03584254": {
+        "definition": "(trademark) a pocket-sized device used to play music files",
+        "names": [
+            "iPod"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03584254-n"
+    },
+    "n03602883": {
+        "definition": "a manual control consisting of a vertical handle that can move freely in two directions; used as an input device to computers or to devices controlled by computers",
+        "names": [
+            "joystick"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03602883-n"
+    },
+    "n03607659": {
+        "definition": "a type of submachine gun made in Russia",
+        "names": [
+            "Kalashnikov"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03607659-n"
+    },
+    "n03609235": {
+        "definition": "a small canoe consisting of a light frame made watertight with animal skins; used by Eskimos",
+        "names": [
+            "kayak"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03609235-n"
+    },
+    "n03612010": {
+        "definition": "a sailing vessel with two masts; the mizzen is forward of the rudderpost",
+        "names": [
+            "ketch"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03612010-n"
+    },
+    "n03623556": {
+        "definition": "edge tool used as a cutting instrument; has a pointed blade with a sharp edge and a handle",
+        "names": [
+            "knife"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03623556-n"
+    },
+    "n03626115": {
+        "definition": "a circular rounded projection or protuberance",
+        "names": [
+            "boss",
+            "knob"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03626115-n"
+    },
+    "n03642806": {
+        "definition": "a portable computer small enough to use in your lap",
+        "names": [
+            "laptop",
+            "laptop computer"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03642806-n"
+    },
+    "n03646296": {
+        "definition": "machine tool for shaping metal or wood; the workpiece turns about a horizontal axis against a fixed tool",
+        "names": [
+            "lathe"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03646296-n"
+    },
+    "n03649909": {
+        "definition": "garden tool for mowing grass on lawns",
+        "names": [
+            "mower",
+            "lawn mower"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03649909-n"
+    },
+    "n03665924": {
+        "definition": "electric lamp consisting of a transparent or translucent glass housing containing a wire filament (usually tungsten) that emits light when heated by electricity",
+        "names": [
+            "electric light",
+            "incandescent lamp",
+            "electric-light bulb",
+            "lightbulb",
+            "bulb",
+            "light bulb"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03665924-n"
+    },
+    "n03710193": {
+        "definition": "a private box for delivery of mail",
+        "names": [
+            "letter box",
+            "mailbox"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03710193-n"
+    },
+    "n03716966": {
+        "definition": "a stringed instrument related to the lute, usually played with a plectrum",
+        "names": [
+            "mandolin"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03716966-n"
+    },
+    "n03721384": {
+        "definition": "a percussion instrument with wooden bars tuned to produce a chromatic scale and with resonators; played with small mallets",
+        "names": [
+            "xylophone",
+            "marimba"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03721384-n"
+    },
+    "n03743279": {
+        "definition": "a cone-shaped acoustic device held to the mouth to intensify and direct the human voice",
+        "names": [
+            "megaphone"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03743279-n"
+    },
+    "n03746005": {
+        "definition": "(Judaism) a candelabrum with nine branches; used during the Hanukkah festival",
+        "names": [
+            "menorah"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03746005-n"
+    },
+    "n03760671": {
+        "definition": "magnifier of the image of small objects; \"the invention of the microscope led to the discovery of the cell\"",
+        "names": [
+            "microscope"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03760671-n"
+    },
+    "n03761084": {
+        "definition": "kitchen appliance that cooks food by passing an electromagnetic wave through it; heat results from the absorption of energy by the water molecules in the food",
+        "names": [
+            "microwave oven",
+            "microwave"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03761084-n"
+    },
+    "n03767745": {
+        "definition": "slender tower with balconies",
+        "names": [
+            "minaret"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03767745-n"
+    },
+    "n03790512": {
+        "definition": "a motor vehicle with two wheels and a strong frame",
+        "names": [
+            "bike",
+            "motorcycle"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03790512-n"
+    },
+    "n03792782": {
+        "definition": "a bicycle with a sturdy frame and fat tires; originally designed for riding in mountainous country",
+        "names": [
+            "all-terrain bike",
+            "mountain bike",
+            "off-roader"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03792782-n"
+    },
+    "n03793489": {
+        "definition": "a hand-operated electronic device that controls the coordinates of a cursor on your computer screen as you move it around on a pad; on the bottom of the device is a ball that rolls on the surface of the pad; \"a mouse takes much more room than a trackball\"",
+        "names": [
+            "computer mouse",
+            "mouse"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03793489-n"
+    },
+    "n03815615": {
+        "definition": "neckwear consisting of a long narrow piece of material worn (mostly by men) under a collar and tied in knot at the front; \"he stood in front of the mirror tightening his necktie\"; \"he wore a vest and tie\"",
+        "names": [
+            "necktie",
+            "tie"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03815615-n"
+    },
+    "n03837869": {
+        "definition": "a stone pillar having a rectangular cross section tapering towards a pyramidal top",
+        "names": [
+            "obelisk"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03837869-n"
+    },
+    "n03886762": {
+        "definition": "a wire or plastic clip for holding sheets of paper together; \"the paper clip was invented in 1900\"",
+        "names": [
+            "paperclip",
+            "gem clip",
+            "paper clip"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03886762-n"
+    },
+    "n03918737": {
+        "definition": "a lightweight consumer electronic device that looks like a hand-held computer but instead performs specific tasks; can serve as a diary or a personal database or a telephone or an alarm clock etc.",
+        "names": [
+            "PDA",
+            "personal organizer",
+            "personal organiser",
+            "personal digital assistant",
+            "organizer",
+            "organiser"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03918737-n"
+    },
+    "n03924679": {
+        "definition": "a copier that uses photographic methods of making copies",
+        "names": [
+            "photocopier"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03924679-n"
+    },
+    "n03941684": {
+        "definition": "a hand tool for holding consisting of a compound lever for grasping",
+        "names": [
+            "pincer",
+            "tweezer",
+            "pair of pincers",
+            "pair of tweezers"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03941684-n"
+    },
+    "n03950228": {
+        "definition": "an open vessel with a handle and a spout for pouring",
+        "names": [
+            "pitcher",
+            "ewer"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03950228-n"
+    },
+    "n03954393": {
+        "definition": "a flat metal disk ready for stamping as a coin",
+        "names": [
+            "planchet",
+            "coin blank"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03954393-n"
+    },
+    "n03982430": {
+        "definition": "game equipment consisting of a heavy table on which pool is played",
+        "names": [
+            "pool table",
+            "snooker table",
+            "billiard table"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/03982430-n"
+    },
+    "n04009552": {
+        "definition": "an optical instrument that projects an enlarged image onto a screen",
+        "names": [
+            "projector"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04009552-n"
+    },
+    "n04044716": {
+        "definition": "astronomical telescope that picks up electromagnetic radiations in the radio-frequency range from extraterrestrial sources",
+        "names": [
+            "radio reflector",
+            "radio telescope"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04044716-n"
+    },
+    "n04070727": {
+        "definition": "white goods in which food can be stored at low temperatures",
+        "names": [
+            "refrigerator",
+            "icebox"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04070727-n"
+    },
+    "n04086273": {
+        "definition": "a pistol with a revolving cylinder (usually having six chambers for bullets)",
+        "names": [
+            "six-gun",
+            "revolver",
+            "six-shooter"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04086273-n"
+    },
+    "n04090263": {
+        "definition": "a shoulder firearm with a long barrel and a rifled bore; \"he lifted the rifle to his shoulder and fired\"",
+        "names": [
+            "rifle"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04090263-n"
+    },
+    "n04113406": {
+        "definition": "game equipment consisting of a wheel with slots that is used for gambling; the wheel rotates horizontally and players bet on which slot the roulette ball will stop in",
+        "names": [
+            "wheel",
+            "roulette wheel"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04113406-n"
+    },
+    "n04123740": {
+        "definition": "a seat for the rider of a horse or other animal",
+        "names": [
+            "saddle"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04123740-n"
+    },
+    "n04146614": {
+        "definition": "a bus used to transport children to or from school",
+        "names": [
+            "school bus"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04146614-n"
+    },
+    "n04154565": {
+        "definition": "a hand tool for driving screws; has a tip that fits into the head of a screw",
+        "names": [
+            "screwdriver"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04154565-n"
+    },
+    "n04168199": {
+        "definition": "(trademark) a self-balancing personal transportation device with two wheels; can operate in any level pedestrian environment",
+        "names": [
+            "Segway",
+            "Segway HT",
+            "Segway Human Transporter"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04168199-n"
+    },
+    "n04180888": {
+        "definition": "a measuring instrument for measuring the angular distance between celestial objects; resembles an octant",
+        "names": [
+            "sextant"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04180888-n"
+    },
+    "n04197391": {
+        "definition": "a garment worn on the upper half of the body",
+        "names": [
+            "shirt"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04197391-n"
+    },
+    "n04210120": {
+        "definition": "a device that shreds documents (usually in order to prevent the wrong people from reading them)",
+        "names": [
+            "shredder"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04210120-n"
+    },
+    "n04225987": {
+        "definition": "a board with wheels that is ridden in a standing or crouching position and propelled by foot",
+        "names": [
+            "skateboard"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04225987-n"
+    },
+    "n04233124": {
+        "definition": "a very tall building with many stories",
+        "names": [
+            "skyscraper"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04233124-n"
+    },
+    "n04252077": {
+        "definition": "tracked vehicle for travel on snow having skis in front",
+        "names": [
+            "snowmobile"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04252077-n"
+    },
+    "n04254680": {
+        "definition": "an inflated ball used in playing soccer",
+        "names": [
+            "soccer ball"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04254680-n"
+    },
+    "n04254777": {
+        "definition": "hosiery consisting of a cloth covering for the foot; worn inside the shoe; reaches to between the ankle and the knee",
+        "names": [
+            "sock"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04254777-n"
+    },
+    "n04255586": {
+        "definition": "a can for holding soft drinks",
+        "names": [
+            "soda can"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04255586-n"
+    },
+    "n04272054": {
+        "definition": "(plural) optical instrument consisting of a frame that holds a pair of lenses for correcting defective vision",
+        "names": [
+            "glasses",
+            "specs",
+            "spectacles",
+            "eyeglasses"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04272054-n"
+    },
+    "n04273569": {
+        "definition": "a fast motorboat",
+        "names": [
+            "speedboat"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04273569-n"
+    },
+    "n04284002": {
+        "definition": "a piece of cutlery with a shallow bowl-shaped container and a handle; used to stir or serve or take up food",
+        "names": [
+            "spoon"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04284002-n"
+    },
+    "n04297750": {
+        "definition": "a window made of stained glass",
+        "names": [
+            "stained-glass window"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04297750-n"
+    },
+    "n04313503": {
+        "definition": "a handwheel that is used for steering",
+        "names": [
+            "wheel",
+            "steering wheel"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04313503-n"
+    },
+    "n04320973": {
+        "definition": "support consisting of metal loops into which rider's feet go",
+        "names": [
+            "stirrup",
+            "stirrup iron"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04320973-n"
+    },
+    "n04373894": {
+        "definition": "a cutting or thrusting weapon that has a long metal blade and a hilt with a hand guard",
+        "names": [
+            "brand",
+            "steel",
+            "sword",
+            "blade"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04373894-n"
+    },
+    "n04376876": {
+        "definition": "a medical instrument used to inject or withdraw fluids",
+        "names": [
+            "syringe"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04376876-n"
+    },
+    "n04387400": {
+        "definition": "a shallow drum with a single drumhead and with metallic disks in the sides",
+        "names": [
+            "tambourine"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04387400-n"
+    },
+    "n04398044": {
+        "definition": "pot for brewing tea; usually has a spout and handle",
+        "names": [
+            "teapot"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04398044-n"
+    },
+    "n04401680": {
+        "definition": "booth for using a telephone",
+        "names": [
+            "telephone box",
+            "phone booth",
+            "call box",
+            "telephone booth",
+            "telephone kiosk"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04401680-n"
+    },
+    "n04409515": {
+        "definition": "ball about the size of a fist used in playing tennis",
+        "names": [
+            "tennis ball"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04409515-n"
+    },
+    "n04409806": {
+        "definition": "a racket used to play tennis",
+        "names": [
+            "tennis racquet",
+            "tennis racket"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04409806-n"
+    },
+    "n04412416": {
+        "definition": "a Native American tent; usually of conical shape",
+        "names": [
+            "tipi",
+            "teepee",
+            "tepee"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04412416-n"
+    },
+    "n04419073": {
+        "definition": "a surveying instrument for measuring horizontal and vertical angles, consisting of a small telescope mounted on a tripod",
+        "names": [
+            "theodolite",
+            "transit"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04419073-n"
+    },
+    "n04442312": {
+        "definition": "a kitchen appliance (usually electric) for toasting bread",
+        "names": [
+            "toaster"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04442312-n"
+    },
+    "n04442441": {
+        "definition": "kitchen appliance consisting of a small electric oven for toasting or warming food",
+        "names": [
+            "toaster oven"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04442441-n"
+    },
+    "n04477387": {
+        "definition": "an exercise device consisting of an endless belt on which a person can walk or jog without changing place",
+        "names": [
+            "treadmill"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04477387-n"
+    },
+    "n04482393": {
+        "definition": "a vehicle with three wheels that is moved by foot pedals",
+        "names": [
+            "trike",
+            "tricycle",
+            "velocipede"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04482393-n"
+    },
+    "n04497801": {
+        "definition": "a metal implement with two prongs that gives a fixed tone when struck; used to tune musical instruments",
+        "names": [
+            "tuning fork"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04497801-n"
+    },
+    "n04507155": {
+        "definition": "a lightweight handheld collapsible canopy",
+        "names": [
+            "umbrella"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04507155-n"
+    },
+    "n04533802": {
+        "definition": "a magnetic tape recorder for recording (and playing back) TV programs",
+        "names": [
+            "videocassette recorder",
+            "VCR"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04533802-n"
+    },
+    "n04554684": {
+        "definition": "a home appliance for washing clothes and linens automatically",
+        "names": [
+            "washer",
+            "washing machine",
+            "automatic washer"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04554684-n"
+    },
+    "n04555897": {
+        "definition": "a small portable timepiece",
+        "names": [
+            "watch",
+            "ticker"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04555897-n"
+    },
+    "n04572121": {
+        "definition": "a mask that you wear for protection when doing welding",
+        "names": [
+            "welder's mask"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04572121-n"
+    },
+    "n04587559": {
+        "definition": "a mill that is powered by the wind",
+        "names": [
+            "windmill"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04587559-n"
+    },
+    "n04591713": {
+        "definition": "a bottle for holding wine",
+        "names": [
+            "wine bottle"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04591713-n"
+    },
+    "n04612026": {
+        "definition": "a skullcap worn by religious Jews (especially at prayer)",
+        "names": [
+            "yarmulka",
+            "yarmulke",
+            "yarmelke"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/04612026-n"
+    },
+    "n07734017": {
+        "definition": "mildly acid red or yellow pulpy fruit eaten as a vegetable",
+        "names": [
+            "tomato"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/07734017-n"
+    },
+    "n07734744": {
+        "definition": "fleshy body of any of numerous edible fungi",
+        "names": [
+            "mushroom"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/07734744-n"
+    },
+    "n07756951": {
+        "definition": "large oblong or roundish melon with a hard green rind and sweet watery red or occasionally yellowish pulp",
+        "names": [
+            "watermelon"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/07756951-n"
+    },
+    "n07758680": {
+        "definition": "any of various juicy fruit of the genus Vitis with green or purple skins; grow in clusters",
+        "names": [
+            "grape"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/07758680-n"
+    },
+    "n11978233": {
+        "definition": "any plant of the genus Helianthus having large flower heads with dark disk florets and showy yellow rays",
+        "names": [
+            "sunflower",
+            "helianthus"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/11978233-n"
+    },
+    "n12582231": {
+        "definition": "any plant of the family Palmae having an unbranched trunk crowned by large pinnate or palmate leaves",
+        "names": [
+            "palm",
+            "palm tree"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/12582231-n"
+    },
+    "n12596148": {
+        "definition": "small graceful palm with reedlike stems and leaf bases clothed with loose coarse fibers",
+        "names": [
+            "bamboo palm",
+            "fern rhapis",
+            "Rhapis excelsa",
+            "miniature fan palm"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/12596148-n"
+    },
+    "n13111881": {
+        "definition": "a dwarfed ornamental tree or shrub grown in a tray or shallow pot",
+        "names": [
+            "bonsai"
+        ],
+        "url": "http://wordnet-rdf.princeton.edu/json/pwn30/13111881-n"
+    }
+}
