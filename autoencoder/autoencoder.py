@@ -37,6 +37,7 @@ class VAE(keras.Model):
         epsilon = tf.keras.backend.random_normal(shape=(batch, dim))
         return z_mean + tf.exp(0.5 * z_log_var) * epsilon
 
+
     def train_step(self, data):
         with tf.GradientTape() as tape:
 
@@ -51,7 +52,9 @@ class VAE(keras.Model):
             )
             
             kl_loss = -0.5 * (1 + z_log_var - tf.square(z_mean) - tf.exp(z_log_var))
-            kl_loss = tf.reduce_mean(tf.reduce_sum(kl_loss, axis=1))
+
+            print(kl_loss.shape)
+            kl_loss = tf.reduce_mean(kl_loss)
 
             total_loss = reconstruction_loss + kl_loss
         
@@ -67,3 +70,18 @@ class VAE(keras.Model):
             "reconstruction_loss": self.reconstruction_loss_tracker.result(),
             "kl_loss": self.kl_loss_tracker.result(),
         }
+
+
+class KL_Callback(tf.keras.callbacks.Callback):
+        def __init__(self, kl_beta=None) -> None:
+            super().__init__()
+
+            if kl_beta is None:
+                self.kl_beta = tf.Variable(1.0, trainable=False)
+            else:
+                self.kl_beta = kl_beta
+
+        def on_epoch_begin(self, epoch, logs=None):
+            print(f'kl_beta: {self.kl_beta}')
+            if epoch == 1:
+                self.kl_beta.assign(1.0)
