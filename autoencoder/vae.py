@@ -4,7 +4,7 @@ from tensorflow import keras
 from tensorflow.keras import layers
 
 class VAE(keras.Model):
-    def __init__(self, encoder, decoder, **kwargs):
+    def __init__(self, encoder, decoder, kl_beta = 1.0, **kwargs):
         super(VAE, self).__init__(**kwargs)
         self.encoder = encoder
         self.decoder = decoder
@@ -13,6 +13,9 @@ class VAE(keras.Model):
             name="reconstruction_loss"
         )
         self.kl_loss_tracker = keras.metrics.Mean(name="kl_loss")
+        self.kl_beta_tracker = keras.metrics.Mean(name="kl_beta")
+
+        self.kl_beta = kl_beta
 
     def call(self, input):
 
@@ -29,6 +32,8 @@ class VAE(keras.Model):
             self.total_loss_tracker,
             self.reconstruction_loss_tracker,
             self.kl_loss_tracker,
+            self.kl_beta_tracker,
+
         ]
 
     def sample_z(self, z_mean, z_log_var):
@@ -44,6 +49,7 @@ class VAE(keras.Model):
             mean_log_var = self.encoder(data)
             z_mean, z_log_var = tf.split(mean_log_var, 2, axis=-1)
             z = self.sample_z(z_mean, z_log_var)
+            
             reconstruction = self.decoder(z)
             reconstruction = tf.squeeze(reconstruction)
 
@@ -53,10 +59,11 @@ class VAE(keras.Model):
             
             kl_loss = -0.5 * (1 + z_log_var - tf.square(z_mean) - tf.exp(z_log_var))
 
-            print(kl_loss.shape)
             kl_loss = tf.reduce_mean(kl_loss)
 
-            total_loss = reconstruction_loss + kl_loss
+            kl_loss = kl_loss
+
+            total_loss = reconstruction_loss + self.kl_beta*kl_loss
         
         grads = tape.gradient(total_loss, self.trainable_weights)
         self.optimizer.apply_gradients(zip(grads, self.trainable_weights))
@@ -64,24 +71,33 @@ class VAE(keras.Model):
         self.total_loss_tracker.update_state(total_loss)
         self.reconstruction_loss_tracker.update_state(reconstruction_loss)
         self.kl_loss_tracker.update_state(kl_loss)
+        self.kl_beta_tracker.update_state(self.kl_beta)
 
         return {
             "loss": self.total_loss_tracker.result(),
             "reconstruction_loss": self.reconstruction_loss_tracker.result(),
             "kl_loss": self.kl_loss_tracker.result(),
+            'kl_beta': self.kl_beta_tracker.result(),
         }
 
-
 class KL_Callback(tf.keras.callbacks.Callback):
-        def __init__(self, kl_beta=None) -> None:
+        def __init__(self, kl_beta, minimum, maximum, interval) -> None:
             super().__init__()
 
-            if kl_beta is None:
-                self.kl_beta = tf.Variable(1.0, trainable=False)
-            else:
-                self.kl_beta = kl_beta
+            self.min = minimum
+            self.max = maximum
+            self.interval = interval
+
+            self.kl_beta = kl_beta
 
         def on_epoch_begin(self, epoch, logs=None):
-            print(f'kl_beta: {self.kl_beta}')
-            if epoch == 1:
-                self.kl_beta.assign(1.0)
+            if epoch == 0:
+                self.kl_beta.assign(self.min)
+
+            else:
+                if self.kl_beta  >= self.max:
+                    self.kl_beta.assign(self.min)
+                else:
+                    self.kl_beta.assign(self.kl_beta + (self.max-self.min)/self.interval)
+
+            print(f'kl_beta: {float(self.kl_beta.numpy()):.05f}')
